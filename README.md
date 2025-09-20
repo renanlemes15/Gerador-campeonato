@@ -1,13 +1,14 @@
 # Gerador de Tabela de Campeonato - Java Swing
 
 ![Badge de Status](https://img.shields.io/badge/status-conclu%C3%ADdo-green)
+![Badge de Disciplina](https://img.shields.io/badge/disciplina-%20Programação-blue)
 ![Badge de Tecnologia](https://img.shields.io/badge/tecnologia-Java%20Swing-orange)
 
 ## Sobre o Projeto
 
 Este projeto é uma aplicação desktop desenvolvida em Java com a biblioteca gráfica Swing. O software simula um campeonato de futebol, gerando automaticamente todas as partidas no formato "todos contra todos" e, com base em resultados aleatórios, calcula e exibe a tabela de classificação final.
 
-A aplicação foi criada como uma atividade avaliativa para a disciplina de **Algoritmos**, com o objetivo de aplicar conceitos de Programação Orientada a Objetos, manipulação de componentes GUI e lógica de processamento de dados.
+A aplicação foi criada como uma atividade avaliativa para a disciplina de **Programação de computadores**, com o objetivo de aplicar conceitos de Programação Orientada a Objetos, manipulação de componentes GUI e lógica de processamento de dados.
 
 ## Funcionalidades Principais
 
